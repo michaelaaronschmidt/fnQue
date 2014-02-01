@@ -1,0 +1,4 @@
+fnQue
+=====
+
+JavaScript function queue
