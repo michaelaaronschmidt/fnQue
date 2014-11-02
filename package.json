@@ -1,0 +1,23 @@
+{
+  "name": "fnque",
+  "version": "0.0.2",
+  "description": "JavaScript function queue",
+  "main": "./lib/fnQue.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelaaronschmidt/fnQue.git"
+  },
+  "author": "Michael Aaron Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelaaronschmidt/fnQue/issues"
+  },
+  "dependencies":{},
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0"
+  }
+}
